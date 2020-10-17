@@ -9,6 +9,9 @@ sleep 250
 Send {z up}
 sleep 250
 
+Send {space down}
+sleep 250
+
 Send {2 down}
 sleep 250
 
